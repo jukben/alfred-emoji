@@ -4,7 +4,7 @@ exports[`should return empty array 1`] = `
 Array [
   Object {
     "icon": Object {
-      "path": "/Users/jukben/Dev/alfred-meme/node_modules/emoji-datasource-apple/img/apple/64/1f440.png",
+      "path": "/Users/jukben/Dev/alfred-emoji/node_modules/emoji-datasource-apple/img/apple/64/1f440.png",
     },
     "title": "Nothing found!",
   },
@@ -16,70 +16,70 @@ Array [
   Object {
     "arg": "😂",
     "icon": Object {
-      "path": "/Users/jukben/Dev/alfred-meme/node_modules/emoji-datasource-apple/img/apple/64/1f602.png",
+      "path": "/Users/jukben/Dev/alfred-emoji/node_modules/emoji-datasource-apple/img/apple/64/1f602.png",
     },
     "title": "FACE WITH TEARS OF JOY",
   },
   Object {
     "arg": "😆",
     "icon": Object {
-      "path": "/Users/jukben/Dev/alfred-meme/node_modules/emoji-datasource-apple/img/apple/64/1f606.png",
+      "path": "/Users/jukben/Dev/alfred-emoji/node_modules/emoji-datasource-apple/img/apple/64/1f606.png",
     },
     "title": "SMILING FACE WITH OPEN MOUTH AND TIGHTLY-CLOSED EYES",
   },
   Object {
     "arg": "😹",
     "icon": Object {
-      "path": "/Users/jukben/Dev/alfred-meme/node_modules/emoji-datasource-apple/img/apple/64/1f639.png",
+      "path": "/Users/jukben/Dev/alfred-emoji/node_modules/emoji-datasource-apple/img/apple/64/1f639.png",
     },
     "title": "CAT FACE WITH TEARS OF JOY",
   },
   Object {
     "arg": "😄",
     "icon": Object {
-      "path": "/Users/jukben/Dev/alfred-meme/node_modules/emoji-datasource-apple/img/apple/64/1f604.png",
+      "path": "/Users/jukben/Dev/alfred-emoji/node_modules/emoji-datasource-apple/img/apple/64/1f604.png",
     },
     "title": "SMILING FACE WITH OPEN MOUTH AND SMILING EYES",
   },
   Object {
     "arg": "😝",
     "icon": Object {
-      "path": "/Users/jukben/Dev/alfred-meme/node_modules/emoji-datasource-apple/img/apple/64/1f61d.png",
+      "path": "/Users/jukben/Dev/alfred-emoji/node_modules/emoji-datasource-apple/img/apple/64/1f61d.png",
     },
     "title": "FACE WITH STUCK-OUT TONGUE AND TIGHTLY-CLOSED EYES",
   },
   Object {
     "arg": "😭",
     "icon": Object {
-      "path": "/Users/jukben/Dev/alfred-meme/node_modules/emoji-datasource-apple/img/apple/64/1f62d.png",
+      "path": "/Users/jukben/Dev/alfred-emoji/node_modules/emoji-datasource-apple/img/apple/64/1f62d.png",
     },
     "title": "LOUDLY CRYING FACE",
   },
   Object {
     "arg": "😜",
     "icon": Object {
-      "path": "/Users/jukben/Dev/alfred-meme/node_modules/emoji-datasource-apple/img/apple/64/1f61c.png",
+      "path": "/Users/jukben/Dev/alfred-emoji/node_modules/emoji-datasource-apple/img/apple/64/1f61c.png",
     },
     "title": "FACE WITH STUCK-OUT TONGUE AND WINKING EYE",
   },
   Object {
     "arg": "👇",
     "icon": Object {
-      "path": "/Users/jukben/Dev/alfred-meme/node_modules/emoji-datasource-apple/img/apple/64/1f447.png",
+      "path": "/Users/jukben/Dev/alfred-emoji/node_modules/emoji-datasource-apple/img/apple/64/1f447.png",
     },
     "title": "WHITE DOWN POINTING BACKHAND INDEX",
   },
   Object {
     "arg": "😀",
     "icon": Object {
-      "path": "/Users/jukben/Dev/alfred-meme/node_modules/emoji-datasource-apple/img/apple/64/1f600.png",
+      "path": "/Users/jukben/Dev/alfred-emoji/node_modules/emoji-datasource-apple/img/apple/64/1f600.png",
     },
     "title": "GRINNING FACE",
   },
   Object {
     "arg": "🙈",
     "icon": Object {
-      "path": "/Users/jukben/Dev/alfred-meme/node_modules/emoji-datasource-apple/img/apple/64/1f648.png",
+      "path": "/Users/jukben/Dev/alfred-emoji/node_modules/emoji-datasource-apple/img/apple/64/1f648.png",
     },
     "title": "SEE-NO-EVIL MONKEY",
   },
