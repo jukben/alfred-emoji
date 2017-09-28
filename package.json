@@ -1,0 +1,35 @@
+{
+  "name": "alfred-emoji",
+  "version": "0.0.1",
+  "description": "Alfred 3 workflow to find relevant emoji based on text proceed by AI",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jukben/alfred-emoji"
+  },
+  "author": "Jakub Benes <jukben@gmail.com>",
+  "main": "index.js",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jukben/alfred-emoji/issues"
+  },
+  "homepage": "https://github.com/jukben/alfred-emoji/",
+  "keywords": [
+    "emoji",
+    "alfred",
+    "alfred-workflow"
+  ],
+  "scripts": {
+    "test": "jest",
+    "postinstall": "alfy-init",
+    "preuninstall": "alfy-cleanup"
+  },
+  "dependencies": {
+    "@jukben/emoji-search": "1.1.2",
+    "@jukben/unicode": "0.0.4",
+    "alfy": "0.6.0",
+    "emoji-datasource-apple": "3.0.0"
+  },
+  "devDependencies": {
+    "jest": "21.2.1"
+  }
+}
