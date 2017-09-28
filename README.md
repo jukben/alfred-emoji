@@ -2,9 +2,9 @@
 
 <div align="center">
 search for you favorite emoji without struggle. 🤓
+  
+<img src="https://i.imgur.com/OL3WST0.png" width="700">
 </div>
-
-![](https://i.imgur.com/OL3WST0.png)
 
 ## Install
 
@@ -18,7 +18,7 @@ Simlink this folder into Alfred's workflows folder.
 
 ## About
 
-Based on [great deep learning AI Dango](https://getdango.com/), powred by [Alfy](https://github.com/sindresorhus/alfy)
+Based on [great deep learning AI Dango](https://getdango.com/), powered by [Alfy](https://github.com/sindresorhus/alfy)
 
 ## License
 
