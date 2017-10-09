@@ -18,70 +18,80 @@ Array [
     "icon": Object {
       "path": "/Users/jukben/Dev/alfred-emoji/node_modules/emoji-datasource-apple/img/apple/64/1f602.png",
     },
-    "title": "FACE WITH TEARS OF JOY",
+    "subtitle": "face with tears of joy",
+    "title": "",
   },
   Object {
     "arg": "😆",
     "icon": Object {
       "path": "/Users/jukben/Dev/alfred-emoji/node_modules/emoji-datasource-apple/img/apple/64/1f606.png",
     },
-    "title": "SMILING FACE WITH OPEN MOUTH AND TIGHTLY-CLOSED EYES",
+    "subtitle": "smiling face with open mouth and tightly-closed eyes",
+    "title": "",
   },
   Object {
     "arg": "😹",
     "icon": Object {
       "path": "/Users/jukben/Dev/alfred-emoji/node_modules/emoji-datasource-apple/img/apple/64/1f639.png",
     },
-    "title": "CAT FACE WITH TEARS OF JOY",
+    "subtitle": "cat face with tears of joy",
+    "title": "",
   },
   Object {
     "arg": "😄",
     "icon": Object {
       "path": "/Users/jukben/Dev/alfred-emoji/node_modules/emoji-datasource-apple/img/apple/64/1f604.png",
     },
-    "title": "SMILING FACE WITH OPEN MOUTH AND SMILING EYES",
+    "subtitle": "smiling face with open mouth and smiling eyes",
+    "title": "",
   },
   Object {
     "arg": "😝",
     "icon": Object {
       "path": "/Users/jukben/Dev/alfred-emoji/node_modules/emoji-datasource-apple/img/apple/64/1f61d.png",
     },
-    "title": "FACE WITH STUCK-OUT TONGUE AND TIGHTLY-CLOSED EYES",
+    "subtitle": "face with stuck-out tongue and tightly-closed eyes",
+    "title": "",
   },
   Object {
     "arg": "😭",
     "icon": Object {
       "path": "/Users/jukben/Dev/alfred-emoji/node_modules/emoji-datasource-apple/img/apple/64/1f62d.png",
     },
-    "title": "LOUDLY CRYING FACE",
+    "subtitle": "loudly crying face",
+    "title": "",
   },
   Object {
     "arg": "😜",
     "icon": Object {
       "path": "/Users/jukben/Dev/alfred-emoji/node_modules/emoji-datasource-apple/img/apple/64/1f61c.png",
     },
-    "title": "FACE WITH STUCK-OUT TONGUE AND WINKING EYE",
+    "subtitle": "face with stuck-out tongue and winking eye",
+    "title": "",
   },
   Object {
     "arg": "👇",
     "icon": Object {
       "path": "/Users/jukben/Dev/alfred-emoji/node_modules/emoji-datasource-apple/img/apple/64/1f447.png",
     },
-    "title": "WHITE DOWN POINTING BACKHAND INDEX",
+    "subtitle": "white down pointing backhand index",
+    "title": "",
   },
   Object {
     "arg": "😀",
     "icon": Object {
       "path": "/Users/jukben/Dev/alfred-emoji/node_modules/emoji-datasource-apple/img/apple/64/1f600.png",
     },
-    "title": "GRINNING FACE",
+    "subtitle": "grinning face",
+    "title": "",
   },
   Object {
     "arg": "🙈",
     "icon": Object {
       "path": "/Users/jukben/Dev/alfred-emoji/node_modules/emoji-datasource-apple/img/apple/64/1f648.png",
     },
-    "title": "SEE-NO-EVIL MONKEY",
+    "subtitle": "see-no-evil monkey",
+    "title": "",
   },
 ]
 `;

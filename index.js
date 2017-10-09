@@ -42,7 +42,8 @@ const emoji = () =>
         [
           ...new Set([...synonyms, ...results.map(({ text }) => text)]),
         ].map(char => ({
-          title: getName(char),
+          title: '',
+          subtitle: getName(char).toLowerCase(),
           icon: { path: getImagePath(char) },
           arg: char,
         }))
