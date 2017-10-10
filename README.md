@@ -3,8 +3,8 @@
 <div align="center">
 search for you favorite emoji without struggle. 🤓
   
-<img src="https://i.imgur.com/OL3WST0.png" width="700">
-</div>
+<img src="https://i.imgur.com/DZeggu3.png" width="700"></div>
+Screen is from version 0.0.3. See version [0.0.2](https://i.imgur.com/OL3WST0.png)
 
 ## Install
 
