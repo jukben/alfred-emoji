@@ -1,6 +1,6 @@
 {
   "name": "alfred-emoji",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Alfred 3 workflow to find relevant emoji based on text proceed by AI",
   "repository": {
     "type": "git",
