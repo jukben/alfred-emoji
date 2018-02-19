@@ -52,7 +52,7 @@ const emoji = () => {
     return alfy.output(getOfflineEmoji());
   }
 
-  alfy
+  return alfy
     .fetch("emoji.getdango.com/api/emoji", {
       maxAge: 8640000000, // cache for 24 hours
       query: {
