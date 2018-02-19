@@ -52,6 +52,8 @@
 			<dict>
 				<key>alfredfiltersresults</key>
 				<false/>
+				<key>alfredfiltersresultsmatchmode</key>
+				<integer>0</integer>
 				<key>argumenttrimmode</key>
 				<integer>0</integer>
 				<key>argumenttype</key>
@@ -94,11 +96,7 @@
 		</dict>
 	</array>
 	<key>readme</key>
-	<string>Alfred's Script Filter object is extremely powerful, and gives you control over the results displayed in Alfred.
-
-Alfred 3 now supports JSON, which is the recommended format. XML is also supported for legacy Alfred 2 workflows, and has been updated to include the new features.
-
-A new option now exists for Script Filters, "Alfred filters results". This allows you to return a whole list of results, let Alfred do the subsequent filtering with extreme performance. When this option is selected, your script will be called once with no argument.</string>
+	<string>Search for you favorite emoji without struggle.</string>
 	<key>uidata</key>
 	<dict>
 		<key>466310D6-D5A0-46FA-90DD-268D19EA3782</key>
@@ -116,8 +114,13 @@ A new option now exists for Script Filters, "Alfred filters results". This allow
 			<integer>10</integer>
 		</dict>
 	</dict>
+	<key>variables</key>
+	<dict>
+		<key>always-offline</key>
+		<string>0</string>
+	</dict>
 	<key>version</key>
-	<string>0.0.2</string>
+	<string>0.0.5</string>
 	<key>webaddress</key>
 	<string>https://github.com/jukben/alfred-emoji</string>
 </dict>
