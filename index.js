@@ -2,7 +2,7 @@
 
 const path = require("path");
 const alfy = require("alfy");
-const search = require("@jukben/emoji-search");
+const search = require("@jukben/emoji-search").default;
 const unicode = require("@jukben/unicode").default;
 const emojis = require("emoji-datasource-apple");
 
