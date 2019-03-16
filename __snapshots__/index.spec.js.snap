@@ -20,6 +20,7 @@ Array [
     },
     "subtitle": "face with tears of joy",
     "title": "",
+    "uid": "face with tears of joy",
   },
   Object {
     "arg": "😆",
@@ -28,6 +29,7 @@ Array [
     },
     "subtitle": "smiling face with open mouth and tightly-closed eyes",
     "title": "",
+    "uid": "smiling face with open mouth and tightly-closed eyes",
   },
   Object {
     "arg": "😹",
@@ -36,6 +38,7 @@ Array [
     },
     "subtitle": "cat face with tears of joy",
     "title": "",
+    "uid": "cat face with tears of joy",
   },
   Object {
     "arg": "😄",
@@ -44,6 +47,7 @@ Array [
     },
     "subtitle": "smiling face with open mouth and smiling eyes",
     "title": "",
+    "uid": "smiling face with open mouth and smiling eyes",
   },
   Object {
     "arg": "😝",
@@ -52,6 +56,7 @@ Array [
     },
     "subtitle": "face with stuck-out tongue and tightly-closed eyes",
     "title": "",
+    "uid": "face with stuck-out tongue and tightly-closed eyes",
   },
   Object {
     "arg": "😭",
@@ -60,6 +65,7 @@ Array [
     },
     "subtitle": "loudly crying face",
     "title": "",
+    "uid": "loudly crying face",
   },
   Object {
     "arg": "😜",
@@ -68,6 +74,7 @@ Array [
     },
     "subtitle": "face with stuck-out tongue and winking eye",
     "title": "",
+    "uid": "face with stuck-out tongue and winking eye",
   },
   Object {
     "arg": "👇",
@@ -76,6 +83,7 @@ Array [
     },
     "subtitle": "white down pointing backhand index",
     "title": "",
+    "uid": "white down pointing backhand index",
   },
   Object {
     "arg": "😀",
@@ -84,6 +92,7 @@ Array [
     },
     "subtitle": "grinning face",
     "title": "",
+    "uid": "grinning face",
   },
   Object {
     "arg": "🙈",
@@ -92,6 +101,7 @@ Array [
     },
     "subtitle": "see-no-evil monkey",
     "title": "",
+    "uid": "see-no-evil monkey",
   },
 ]
 `;
