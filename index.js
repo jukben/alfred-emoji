@@ -25,12 +25,14 @@ function getName(char) {
 
 const emoji = () => {
   const format = char => {
+    const name = getName(char).toLowerCase();
+
     return {
+      uid: name,
       title: "",
-      subtitle: getName(char).toLowerCase(),
+      subtitle: name,
       icon: { path: getImagePath(char) },
       arg: char,
-      uid: getName(char)
     };
   };
 
