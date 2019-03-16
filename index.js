@@ -29,7 +29,8 @@ const emoji = () => {
       title: "",
       subtitle: getName(char).toLowerCase(),
       icon: { path: getImagePath(char) },
-      arg: char
+      arg: char,
+      uid: getName(char)
     };
   };
 
