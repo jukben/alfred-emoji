@@ -10,13 +10,18 @@ const ALWAYS_OFFLINE = +process.env["always-offline"] || 0;
 
 const emojiLookup = emojis.reduce((a, v, i, arr) => {
   a[v.unified.toLowerCase()] = v;
+
+  if (v.non_qualified) {
+    a[v.non_qualified.toLowerCase()] = v;
+  }
+
   return a;
 }, {});
 
 const getHex = char => unicode(char).hexCodeAt(0);
 
 function getImagePath(char) {
-  return `${path.dirname(require.resolve("emoji-datasource-apple"))}/img/apple/64/${getHex(char)}.png`;
+  return `${path.dirname(require.resolve("emoji-datasource-apple"))}/img/apple/64/${emojiLookup[getHex(char)].image}`;
 }
 
 function getName(char) {
