@@ -1,5 +1,9 @@
 # alfred-emoji
 
+> Deprecated in favor of https://github.com/jsumners/alfred-emoji/.*
+>
+> \* It's much better, especially the approach with custom [images generated at the client side](https://github.com/jsumners/alfred-emoji/blob/master/lib/genicons.js) – great idea. 
+
 <div align="center">
   <i>search for you favorite emoji without struggle</i>
   
